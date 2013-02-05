@@ -10,7 +10,20 @@
     "type": "git",
     "url": "git://github.com/javiermanzano/mongoose-cursor.git"
   },
-  "author": "Javier Manzano",
+  "keywords": [
+    "mongoose",
+    "paginate",
+    "pagination",
+    "cursor",
+    "sort",
+    "page",
+    "limit"
+  ],
+  "author": {
+    "name": "Javier Manzano",
+    "email": "javier.manzano22@gmail.com",
+    "url": "http://www.jmanzano.es"
+  },
   "license": "BSD",
   "readmeFilename": "README.md"
 }
