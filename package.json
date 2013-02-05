@@ -1,30 +1,16 @@
 {
   "name": "mongoose-cursor",
-  "description": "Mongoose pagination with cursor schema for json requests",
-  "main": "./index",
-  "author": {
-    "name": "Javier Manzano"
+  "version": "0.0.0",
+  "description": "mongoose-cursor ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1",
   "repository": {
     "type": "git",
-    "url": "http://github.com/javiermanzano/mongoose-cursor.git"
+    "url": "git://github.com/javiermanzano/mongoose-cursor.git"
   },
-  "bugs": {
-    "url": "http://github.com/javiermanzano/mongoose-cursor/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-    }
-  ],
-  "devDependencies": {
-    "nodeunit": ">0.0.0",
-    "uglify-js": "1.2.x",
-    "nodelint": ">0.0.0"
-  },
-  "readme": "",
-  "readmeFilename": "README.md",
-  "_id": "mongoose-cursor@0.0.1",
-  "_from": "mongoose-cursor"
+  "author": "Javier Manzano",
+  "license": "BSD",
+  "readmeFilename": "README.md"
 }
