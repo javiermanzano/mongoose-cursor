@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git://github.com/javiermanzano/mongoose-cursor.git"
   },
+  "dependencies": {
+    "mongoose": ">=2.7.0"
+  },
   "keywords": [
     "mongoose",
     "paginate",
