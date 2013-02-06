@@ -1,0 +1,32 @@
+{
+  "name": "mongoose-cursor",
+  "version": "0.0.1",
+  "description": "mongoose-cursor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/javiermanzano/mongoose-cursor.git"
+  },
+  "dependencies": {
+    "mongoose": ">=2.7.0"
+  },
+  "keywords": [
+    "mongoose",
+    "paginate",
+    "pagination",
+    "cursor",
+    "sort",
+    "page",
+    "limit"
+  ],
+  "author": {
+    "name": "Javier Manzano",
+    "email": "javier.manzano22@gmail.com",
+    "url": "http://www.jmanzano.es"
+  },
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
